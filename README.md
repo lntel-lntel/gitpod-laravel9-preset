@@ -1,5 +1,5 @@
 # Gitpod Laravel 9 Preset
-Start your Laravel project into Gitpod (https://gitpod.io). 
+> Start your Laravel project into Gitpod (https://gitpod.io)
 
 More info at: https://medium.com/@andreapollastri/code-your-laravel-projects-everywhere-with-gitpod-db4010713eed
 
