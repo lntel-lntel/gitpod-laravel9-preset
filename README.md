@@ -9,3 +9,7 @@ git config --global user.email {ID}+{username}@users.noreply.github.com
 git commit --amend --reset-author
 git push
 ```
+
+<center>
+<img src="https://miro.medium.com/max/1400/1*OspLcgBCBlXgD6AdSrqN1A.png">
+</center>
