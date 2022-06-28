@@ -1,6 +1,9 @@
-More info at https://medium.com/@andreapollastri/code-your-laravel-projects-everywhere-with-gitpod-db4010713eed
+# Gitpod Laravel 9 Preset
+Start your Laravel project into Gitpod (https://gitpod.io). 
 
-### Any problem with Git?
+More info at: https://medium.com/@andreapollastri/code-your-laravel-projects-everywhere-with-gitpod-db4010713eed
+
+#### Any issue with Github committing code via your Gitpod terminal?
 ```bash
 git config --global user.email {ID}+{username}@users.noreply.github.com
 git commit --amend --reset-author
